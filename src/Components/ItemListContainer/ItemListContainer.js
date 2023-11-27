@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState, useEffect } from 'react'
-import Products from '../Json/Products.json'
+import {getFirestore, collection, getDocs, where, query} from "firebase/firestore"
 import ItemList from '../ItemList/ItemList'
 import { useParams } from 'react-router-dom'
  
@@ -11,22 +11,17 @@ const ItemListContainer = () => {
   const {id} = useParams();
 
   useEffect(()=>{
-    const fetchData = async()=>{
-      try{
-        const data = await new Promise ((resolve)=>{
-          setTimeout(()=>{
-            resolve( id? Products.filter(item=> item.categoria === id) : Products)
-          }, 2000);
-        });
-        setItem(data)
-      }catch(error){
-        console.log('Error', error);
-      }
-    };
-
-    fetchData()
-
-  },[id])
+    const queryDb = getFirestore();
+    const queryCollection = collection(queryDb, 'Items'); /// se utiliza el nombre de la const qeu trae el firestore y el nombre de la coleccion
+    if(id){
+     const queryFilter = query(queryCollection, where('categoryID', '==', id))
+     getDocs(queryFilter).then((res)=> setItem(res.docs.map((p)=>({id: p.id, ...p.data()})))
+     );
+    }else{
+      getDocs(queryCollection).then((res)=> setItem(res.docs.map((p)=>({id: p.id, ...p.data()})))
+      );
+    }
+  }, [id])
 
   return (
     <div className='container'>

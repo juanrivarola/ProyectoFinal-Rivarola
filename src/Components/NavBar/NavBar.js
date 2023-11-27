@@ -27,7 +27,9 @@ function NavBar() {
               <Link className='nav-link active' aria-current='page' to='/category/pantalones'> Pantalones</Link> 
             </Nav.Link>
             
-            <CartWidget />
+            <Link class="nav-link" to="/cart">
+              <CartWidget class="cart-icon" />
+            </Link>
           </Nav>
         </Container>
       </Navbar>
