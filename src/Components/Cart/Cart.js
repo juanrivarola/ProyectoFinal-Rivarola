@@ -26,6 +26,11 @@ const Cart = () => {
         {' '}
         <button className="btn-total">Finalizar Compra</button>
       </Link>
+      <br></br>
+      <Link to="/">
+        {' '}
+        <button className="btn-total">Seguir Comprando</button>
+      </Link>
     </>
   );
 };
