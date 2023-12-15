@@ -1,70 +1,37 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Hola!👋, soy Juan Rivarola</h1>
+<h3 align="center">Aprendiendo programación y diseño😊</h3>
 
-## Available Scripts
+- 🔭 Mi meta para este 2023 **es completar mi carrera de Desarrollador Fullstack en Coderhouse.**
 
-In the project directory, you can run:
+- 🌱 Actualmente estoy **aprendiendo ReactJS y practicando su uso**
 
-### `npm start`
+- 👨‍💻 Podes ver mis otros proyectos en: https://github.com/juanrivarola?tab=repositories
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 📫 Mi email de contacto: juanrivarola35@gmail.com
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h3 align="left">Redes sociales</h3>
+<p align="left" style="display: flex; align-items:center">
+   <a href="(https://www.linkedin.com/in/juan-rivarola-679b16150/)" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="starc007" height="30" width="30" /></a>    
+   <a href="(https://www.instagram.com/juanrivarola11/)" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurra3h" height="30" width="30" /></a>
+</p>
 
-### `npm test`
+<h3 align="left" style="display: flex; align-items:center">Mi aprendizaje:</h3>
+<p align="left" style="display: flex; align-items:center">  El proyecto no es lo que esperaba pero de todas maneras estoy conforme con el resultado, tambien estoy tranquilo porque con lo que aprendi estoy seguro que tengo la capacidad de cambiar lo que necesite y/o mejorar el sitio.</p>   
+<br>
+<p>Luego de una no muy grata experiencia con JavaScript, me encontre con que React me solucionaba la gran mayoria de los problemas con los que me encontre aprendiendo ese lenguaje, sumado a los conocimientos que pude aplicar de HTML hizo que la creacion de este sitio fuera mas amena.</p>
+<br>
+<p>Si bien no le di mucha importancia al tema responsive y al aspecto de la web, utilice bootstrap prinicpalmente para la creacion de la NavBar ya que cuenta con diseños sencillos y faciles para la orientacion del usuario</p>
+<br>
+<p>Dentro de todo siento que aprendí mucho y que con mas práctica puedo lograr mejores resultados.</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h3 align="left">Sitios que me fueron útiles:</h3>
+<p>
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+by Juan Rivarola
+    
